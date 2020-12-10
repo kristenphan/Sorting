@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TitleLastAndMagnitudeComparator
+comment0.text=\r\n\ Implement\ a\ Comparator\ of\ type\ QuakeEntry\ \r\n\ to\ sort\ earthquakes\ by\ the\ last\ word\ in\ their\ titles\ lexicographically\r\n\ and\ break\ ties\ by\ magnitude\ (from\ smallest\ to\ largest)\r\n
+comment1.params=q1\ q2
+comment1.target=int\ compare(QuakeEntry,\ QuakeEntry)
+numComments=2

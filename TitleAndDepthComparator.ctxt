@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TitleAndDepthComparator
+comment0.text=\r\n\ Implement\ a\ Comparator\ of\ type\ QuakeEntry\ to\ sort\ earthquakes\ by\ their\ titles\ and\ depth\r\n\ Quakes\ should\ be\ sorted\ lexicographically\ and\ break\ ties\ by\ comparing\ their\ depth\ \r\n\ (smallest\ i.e.\ most\ negative\ to\ largest\ depth)\r\n
+comment1.params=q1\ q2
+comment1.target=int\ compare(QuakeEntry,\ QuakeEntry)
+numComments=2
